@@ -1,0 +1,9 @@
+.pagination{
+    border: solid 1px black;
+}
+
+.pagination span{
+    border: solid 1px rgb(0, 0, 0);
+    cursor: pointer;
+}
+
